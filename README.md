@@ -45,4 +45,3 @@
 <p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
 </a></p>
-
